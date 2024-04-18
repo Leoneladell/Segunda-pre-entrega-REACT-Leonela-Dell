@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "nombre": "Producto 1",
+        "descripcion": "descripcion del producto 1",
+        "precio":5.000,
+        "categoria":"velas"
+    },
+    {
+        "id": 2,
+        "nombre": "Producto 2",
+        "descripcion": "descripcion del producto 3",
+        "precio":8.000,
+        "categoria":"velas"
+    },
+
+    {
+        "id":1,
+        "nombre": "Producto 3",
+        "descripcion": "descripcion del producto 3",
+        "precio":10.000,
+        "categoria":"velas"
+    },
+
+    {
+        "id":4,
+        "nombre": "Producto 4",
+        "descripcion": "descripcion del producto 4",
+        "precio":12.000,
+        "categoria":"velas"
+    },
+
+    {
+        "id":5,
+        "nombre": "Producto 5",
+        "descripcion": "descripcion del producto 5",
+        "precio":3.000,
+        "categoria":"velas"
+    },
+
+    {
+        "id":6,
+        "nombre": "Producto 6",
+        "descripcion": "descripcion del producto 6",
+        "precio":20.000,
+        "categoria":"velas"
+    }
+]
